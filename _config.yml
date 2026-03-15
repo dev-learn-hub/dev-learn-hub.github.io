@@ -1,0 +1,20 @@
+title: Dev Learn Hub
+description: 开发学习资源平台，提供高质量的编程课程和技术教程
+theme: minima
+url: https://dev-learn-hub.github.io
+
+author:
+  name: Dev Learn Hub
+  email: contact@devlearnhub.dev
+
+# Show excerpts on the home page
+show_excerpts: true
+
+# Minima theme settings
+minima:
+  date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: github, user_url: "https://github.com/dev-learn-hub" }
+
+header_pages:
+  - index.md
